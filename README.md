@@ -24,8 +24,3 @@ Would you like to meet me?
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/victor-siqueira4481/)](https://www.linkedin.com/in/victor-siqueira4481/) <a href="https://wa.me/5533991472451" alt="WhatsApp" target="_blank">
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsiqueira14&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsiqueira14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</p>
