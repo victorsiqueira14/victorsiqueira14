@@ -1,4 +1,4 @@
-### Hi! My name is Victor M Siqueira
+### Hi!
 
 <!--
 *victorsiqueira14/victorsiqueira14* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
