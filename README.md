@@ -1,4 +1,4 @@
-### Hi! My name is Victor M Siqueira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi! My name is Victor M Siqueira
 
 <!--
 *victorsiqueira14/victorsiqueira14* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Victor Machado Siqueira, I'm from Governador Valadares-MG. I'm an enthusiast of web development, systems and other things that humanity needs to evolve technologically.
+I'm Victor Machado Siqueira, I'm from Governador Valadares-MG. I'm an enthusiast of development, systems and other things that humanity needs to evolve technologically.
 
 Would you like to meet me?
 
