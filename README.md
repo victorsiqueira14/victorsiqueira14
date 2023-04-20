@@ -1,26 +1,15 @@
-### Hi!
-
-<!--
-*victorsiqueira14/victorsiqueira14* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+Hi!<br>I'm Victor Machado Siqueira, I'm from Governador Valadares-MG. I'm an enthusiast of development, systems and other things that humanity needs to evolve technologically.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-siqueira4481/) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victorsiqueira14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victorsiqueira14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsiqueira14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-I'm Victor Machado Siqueira, I'm from Governador Valadares-MG. I'm an enthusiast of development, systems and other things that humanity needs to evolve technologically.
-
-Would you like to meet me?
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/victor-siqueira4481/)](https://www.linkedin.com/in/victor-siqueira4481/) <a href="https://wa.me/5533991472451" alt="WhatsApp" target="_blank">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
